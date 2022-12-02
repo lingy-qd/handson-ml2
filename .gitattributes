@@ -1,0 +1,2 @@
+homework/datasets/mnist/X.npy filter=lfs diff=lfs merge=lfs -text
+homework/datasets/mnist/y.npy filter=lfs diff=lfs merge=lfs -text
